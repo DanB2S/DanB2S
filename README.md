@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/codewars?user=DanBS)
+![Codewars](https://github.r2v.ch/codewars?user=DanBS&stroke=%23BB432C)
 
 <!--
 **DanB2S/DanB2S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
